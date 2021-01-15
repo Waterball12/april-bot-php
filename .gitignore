@@ -562,7 +562,7 @@ composer.lock
 
 # React files
 
-/public_html
+/public_html/*
 !/public_html/api
 
 # Environemnts
